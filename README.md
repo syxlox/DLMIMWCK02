@@ -6,4 +6,4 @@ phase 1:
 - `.afb` files
 - `.json` files
 
-attack flow is best visualized via https://center-for-threat-informed-defense.github.io/attack-flow/ui and `file->open file`
+attack flow is best visualized via `.afb`-file, https://center-for-threat-informed-defense.github.io/attack-flow/ui and `file->open file`
