@@ -1,9 +1,9 @@
 {
   "type": "bundle",
-  "id": "bundle--b50dea96-f1dd-43f8-9f29-3a214d374c96",
+  "id": "bundle--48e70b21-90eb-486b-beec-211f3e536829",
   "spec_version": "2.1",
-  "created": "2025-01-17T18:25:05.932Z",
-  "modified": "2025-01-17T18:25:05.932Z",
+  "created": "2025-01-18T16:21:44.903Z",
+  "modified": "2025-01-18T16:21:44.903Z",
   "objects": [
     {
       "type": "extension-definition",
@@ -47,13 +47,13 @@
       "id": "attack-flow--f403355d-f223-41ed-9e94-8bd054d74276",
       "spec_version": "2.1",
       "created": "2025-01-16T15:55:16.404Z",
-      "modified": "2025-01-17T18:25:05.932Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
         }
       },
-      "created_by_ref": "identity--0aca1233-3a81-47bb-aa4c-e59b71866140",
+      "created_by_ref": "identity--031cb4a9-8b68-42ba-bd48-42623d69f3be",
       "start_refs": [
         "attack-action--099767ae-2fac-4e7d-ad30-63c79cf944cf",
         "attack-action--8fc00b03-c7a7-472a-bbca-13897f7547ea"
@@ -63,18 +63,18 @@
     },
     {
       "type": "identity",
-      "id": "identity--0aca1233-3a81-47bb-aa4c-e59b71866140",
+      "id": "identity--031cb4a9-8b68-42ba-bd48-42623d69f3be",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.932Z",
-      "modified": "2025-01-17T18:25:05.932Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "name": "julian leupold"
     },
     {
       "type": "attack-action",
       "id": "attack-action--7fe24e73-c57e-4e8c-87c3-c2f8b7cdea50",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.932Z",
-      "modified": "2025-01-17T18:25:05.932Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -96,8 +96,8 @@
       "type": "attack-action",
       "id": "attack-action--61b08511-6516-4e06-acd1-de1f467d6df0",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -113,8 +113,8 @@
       "type": "attack-action",
       "id": "attack-action--d4a1b7cd-e7bc-42b5-b2a2-28359a8d6c51",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -134,8 +134,8 @@
       "type": "attack-action",
       "id": "attack-action--20324e97-ce13-4064-b965-a3c56396338a",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -157,8 +157,8 @@
       "type": "attack-action",
       "id": "attack-action--6bc16c12-3fd7-4330-a9f0-cbad68345c0a",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -175,8 +175,8 @@
       "type": "attack-action",
       "id": "attack-action--c999e4e5-7e18-4cf5-945a-405322d2d013",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -193,8 +193,8 @@
       "type": "attack-action",
       "id": "attack-action--56628863-c65c-4de0-86b9-42a4dd6c96ab",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -214,8 +214,8 @@
       "type": "malware",
       "id": "malware--7dfd1556-be1d-405d-a089-0a6cd13e22cc",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "name": "Nidhogg",
       "malware_types": [
         "Rootkit"
@@ -234,8 +234,8 @@
       "type": "malware",
       "id": "malware--88fbace2-43a8-4ce3-92d4-fa8bfb897450",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "name": "Athena",
       "malware_types": [
         "C2 Agent"
@@ -249,8 +249,8 @@
       "type": "attack-asset",
       "id": "attack-asset--3a794833-3ca8-41c8-a295-331353ab4553",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -264,8 +264,8 @@
       "type": "user-account",
       "id": "user-account--4445f21e-d1b8-46ce-be42-4b594dd8ba21",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "account_login": "recplast-godesberg\\sql-runner",
       "account_type": "DomainUser",
       "display_name": "sql-runner",
@@ -276,8 +276,8 @@
       "type": "attack-action",
       "id": "attack-action--24955b4e-1413-4afe-bfd8-75b983176cb0",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -297,8 +297,8 @@
       "type": "attack-action",
       "id": "attack-action--8040c752-afbc-4df3-a258-99243a6516f6",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -319,32 +319,32 @@
       "type": "process",
       "id": "process--ae482516-aaa9-4531-b911-7ecebe2275d2",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "command_line": "net user /domain"
     },
     {
       "type": "process",
       "id": "process--4762d6e7-a04b-4014-a4b6-8e3f10e8f2da",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "command_line": "Get-ADUser"
     },
     {
       "type": "process",
       "id": "process--65166e8f-4ae6-487f-82c7-f327e9709eb6",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "command_line": "dsquery"
     },
     {
       "type": "attack-asset",
       "id": "attack-asset--af75196f-64ad-45be-b317-a24a032c7fd3",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -356,8 +356,8 @@
       "type": "attack-action",
       "id": "attack-action--d8088750-393a-4389-95f5-0a979a1df774",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.903Z",
+      "modified": "2025-01-18T16:21:44.903Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -379,8 +379,8 @@
       "type": "attack-action",
       "id": "attack-action--cbe13ec7-d8f2-4345-9476-640fb8a517fe",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -400,8 +400,8 @@
       "type": "attack-action",
       "id": "attack-action--53fd2380-0cb3-4ed3-9593-29415de740ab",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -422,8 +422,8 @@
       "type": "attack-action",
       "id": "attack-action--829e2bf6-a6aa-43a7-ba1f-8c7c8935c1a7",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -440,8 +440,8 @@
       "type": "attack-action",
       "id": "attack-action--9da1dacc-09e2-4cbd-a456-e7e4bde28dc9",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -461,8 +461,8 @@
       "type": "attack-action",
       "id": "attack-action--5aaa76d4-bc4c-4304-badd-a1c1f7280671",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -482,8 +482,8 @@
       "type": "attack-action",
       "id": "attack-action--9e8dc2bd-28eb-4a27-afd6-71dfeaf87caa",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -500,8 +500,8 @@
       "type": "attack-action",
       "id": "attack-action--b7eca0f8-0c17-4a73-a76f-6876ff3eec9e",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -523,8 +523,8 @@
       "type": "attack-action",
       "id": "attack-action--e6820f44-184e-44f7-818a-bf2abbda6892",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -541,8 +541,8 @@
       "type": "attack-action",
       "id": "attack-action--cdb37eeb-1423-4ba6-87d9-f6232cf43faa",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -562,8 +562,8 @@
       "type": "attack-action",
       "id": "attack-action--a0a27ff7-effa-4e1d-bfb2-0a5e73274980",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -580,8 +580,8 @@
       "type": "attack-condition",
       "id": "attack-condition--f669f4a3-71fe-4ef7-9b5d-3690abf85df1",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -597,8 +597,8 @@
       "type": "attack-action",
       "id": "attack-action--3b43b5f1-ff39-4b66-8afb-d767636d0147",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -616,43 +616,43 @@
       "type": "process",
       "id": "process--7ca90518-25f6-4f7a-9bef-e77befad31e1",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "command_line": "nltest /domain_trusts"
     },
     {
       "type": "process",
       "id": "process--68b91b11-1a9d-486b-b7d9-0e00b7072d6b",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "command_line": "Get-DomainTrust"
     },
     {
       "type": "process",
       "id": "process--d8538413-dfd5-4cac-9aa4-90f7684b7c4d",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "command_line": "Get-ADDomain"
     },
     {
       "type": "attack-action",
       "id": "attack-action--32dbf083-22ea-40e9-a720-8786a4527ba2",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
         }
       },
-      "name": "SMB/Windows Admin Shares: Impacket",
+      "name": "SMB/Windows Admin Shares: PsExec Execution on Domaincontroller",
       "tactic_id": "TA0008",
       "tactic_ref": "x-mitre-tactic--7141578b-e50b-4dcc-bfa4-08a8dd689e9e",
       "technique_id": "T1021.002",
       "technique_ref": "attack-pattern--4f9ca633-15c5-463c-9724-bdcd54fde541",
-      "description": "Die Vertrauensstellung lässt eine direkte Anmeldung des Domänen-Admin",
+      "description": "Die Vertrauensstellung lässt eine direkte Anmeldung des Domänen-Admin auf dem entfernten Domaincontroller zu.",
       "effect_refs": [
         "attack-action--2e19cf05-eae1-40f2-8d1f-1b7fea08d7e5"
       ]
@@ -661,8 +661,8 @@
       "type": "user-account",
       "id": "user-account--2473cf46-0140-42c9-beec-45e6ec328c64",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "account_login": "recplast-godesberg\\recplast-admin",
       "account_type": "DomainAdmin",
       "display_name": "recplast-admin",
@@ -672,8 +672,8 @@
       "type": "attack-asset",
       "id": "attack-asset--a2f28d93-1712-4907-ac06-1ad03ea6a278",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -686,8 +686,8 @@
       "type": "attack-action",
       "id": "attack-action--2e19cf05-eae1-40f2-8d1f-1b7fea08d7e5",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -707,8 +707,8 @@
       "type": "attack-action",
       "id": "attack-action--58339319-ed21-4b52-b605-3d4dd81ffb04",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -725,14 +725,14 @@
       "type": "attack-action",
       "id": "attack-action--977a2791-5c80-4411-8336-5b30c0dcccd5",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
         }
       },
-      "name": "SMB/Windows Admin Shares: Impacket",
+      "name": "SMB/Windows Admin Shares: PsExec Execution on SCADA-Server",
       "tactic_id": "TA0008",
       "tactic_ref": "x-mitre-tactic--7141578b-e50b-4dcc-bfa4-08a8dd689e9e",
       "technique_id": "T1021.002",
@@ -747,8 +747,8 @@
       "type": "attack-action",
       "id": "attack-action--8a6bbee9-1721-4b48-a5e6-f26024e10b70",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -759,7 +759,7 @@
       "tactic_ref": "x-mitre-tactic--f72804c5-f15a-449e-a5da-2eecd181f813",
       "technique_id": "T1219 and T1105",
       "technique_ref": "attack-pattern--4061e78c-1284-44b4-9116-73e4ac3912f7",
-      "description": "Der C2 Agent wird auf die Server heruntergeladen und installiert.",
+      "description": "Der C2 Agent wird auf den Server heruntergeladen und installiert.",
       "effect_refs": [
         "attack-action--5e812740-87f5-4112-92ab-aca14ea10fe3"
       ]
@@ -768,8 +768,8 @@
       "type": "attack-action",
       "id": "attack-action--5e812740-87f5-4112-92ab-aca14ea10fe3",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -786,8 +786,8 @@
       "type": "attack-action",
       "id": "attack-action--099767ae-2fac-4e7d-ad30-63c79cf944cf",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -807,8 +807,8 @@
       "type": "attack-action",
       "id": "attack-action--cb6a1c25-6dc9-47b8-9436-68696f774290",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -828,8 +828,8 @@
       "type": "attack-action",
       "id": "attack-action--7762d7d8-ff71-417e-a15c-beff4ccb8bec",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -846,8 +846,8 @@
       "type": "malware",
       "id": "malware--e4d13d96-54e4-47f8-abec-8471869f1e79",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "name": "Athena",
       "malware_types": [
         "C2 Agent"
@@ -861,8 +861,8 @@
       "type": "malware",
       "id": "malware--33052415-3309-4c2d-89f0-55afd4732037",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "name": "Athena",
       "malware_types": [
         "C2 Agent"
@@ -876,8 +876,8 @@
       "type": "attack-condition",
       "id": "attack-condition--7544c926-12c7-4a52-9715-5897d6adfd40",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -892,8 +892,8 @@
       "type": "attack-action",
       "id": "attack-action--8fc00b03-c7a7-472a-bbca-13897f7547ea",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "extensions": {
         "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
           "extension_type": "new-sdo"
@@ -911,130 +911,130 @@
     },
     {
       "type": "relationship",
-      "id": "relationship--56522e7b-482a-4ad7-8d3e-dbd98aece14b",
+      "id": "relationship--9a7e72ac-0a17-4a0b-8cb9-2691d1b89d92",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-action--20324e97-ce13-4064-b965-a3c56396338a",
       "target_ref": "malware--7dfd1556-be1d-405d-a089-0a6cd13e22cc"
     },
     {
       "type": "relationship",
-      "id": "relationship--4ea173d4-fcca-4fb2-a782-61b02494ed6a",
+      "id": "relationship--dfb84cf7-4c7d-45f6-bf38-b40124fc0077",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-action--6bc16c12-3fd7-4330-a9f0-cbad68345c0a",
       "target_ref": "malware--88fbace2-43a8-4ce3-92d4-fa8bfb897450"
     },
     {
       "type": "relationship",
-      "id": "relationship--f74a821b-ee21-426b-9195-dec1df2f894d",
+      "id": "relationship--4a1a6b64-b6d1-43c4-9927-a16ea919d7aa",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-asset--3a794833-3ca8-41c8-a295-331353ab4553",
       "target_ref": "attack-action--8040c752-afbc-4df3-a258-99243a6516f6"
     },
     {
       "type": "relationship",
-      "id": "relationship--10ebf07e-ab7c-4d10-99d1-c5f30b35e96d",
+      "id": "relationship--d66d267f-0ceb-4eab-bf5d-9d4e5eb7a0a9",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-action--8040c752-afbc-4df3-a258-99243a6516f6",
       "target_ref": "process--65166e8f-4ae6-487f-82c7-f327e9709eb6"
     },
     {
       "type": "relationship",
-      "id": "relationship--fbdacec2-a875-4bb5-ac94-86c238f7b1af",
+      "id": "relationship--637cc0e2-b9d0-4690-ae0d-4d5db3d76f65",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-action--8040c752-afbc-4df3-a258-99243a6516f6",
       "target_ref": "process--4762d6e7-a04b-4014-a4b6-8e3f10e8f2da"
     },
     {
       "type": "relationship",
-      "id": "relationship--0133b53d-9c1e-410d-8af5-0cad09228491",
+      "id": "relationship--cc2ea9d0-aad9-46d3-b2b6-3e162d23b304",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "process--ae482516-aaa9-4531-b911-7ecebe2275d2",
       "target_ref": "attack-asset--af75196f-64ad-45be-b317-a24a032c7fd3"
     },
     {
       "type": "relationship",
-      "id": "relationship--51e8eb2a-6322-41ab-ae78-aed53d1c6d59",
+      "id": "relationship--214b9740-b3c7-4de7-8cda-8e21cc443c55",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "process--4762d6e7-a04b-4014-a4b6-8e3f10e8f2da",
       "target_ref": "attack-asset--af75196f-64ad-45be-b317-a24a032c7fd3"
     },
     {
       "type": "relationship",
-      "id": "relationship--e9c15721-7660-4c1a-9ac5-214d4c671b21",
+      "id": "relationship--612de393-74c1-4535-b6b4-aa6260602edc",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "process--65166e8f-4ae6-487f-82c7-f327e9709eb6",
       "target_ref": "attack-asset--af75196f-64ad-45be-b317-a24a032c7fd3"
     },
     {
       "type": "relationship",
-      "id": "relationship--72559755-8655-4908-885e-21c07673f374",
+      "id": "relationship--ca115a6d-0b76-451c-99fa-25980706d97c",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-action--b7eca0f8-0c17-4a73-a76f-6876ff3eec9e",
       "target_ref": "malware--33052415-3309-4c2d-89f0-55afd4732037"
     },
     {
       "type": "relationship",
-      "id": "relationship--c73f7e3c-b413-478f-9b18-95ad69506320",
+      "id": "relationship--a6e42fa5-605d-47e3-addf-73961845d6b0",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-action--3b43b5f1-ff39-4b66-8afb-d767636d0147",
       "target_ref": "process--d8538413-dfd5-4cac-9aa4-90f7684b7c4d"
     },
     {
       "type": "relationship",
-      "id": "relationship--a1fcab81-50ff-4356-bbad-2a680016311d",
+      "id": "relationship--bba6d01d-ff04-45c7-b4c2-dfd780eb6342",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-action--3b43b5f1-ff39-4b66-8afb-d767636d0147",
       "target_ref": "process--7ca90518-25f6-4f7a-9bef-e77befad31e1"
     },
     {
       "type": "relationship",
-      "id": "relationship--6a918f70-9988-4455-9d3e-9a6ef81f5714",
+      "id": "relationship--43847a9a-3d01-4dd6-a175-8080c2877bb4",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-asset--a2f28d93-1712-4907-ac06-1ad03ea6a278",
       "target_ref": "attack-action--d8088750-393a-4389-95f5-0a979a1df774"
     },
     {
       "type": "relationship",
-      "id": "relationship--2383a806-904d-4966-b637-328b1d9addc7",
+      "id": "relationship--b447bd5a-c63e-41c9-ab46-241ab831ad6e",
       "spec_version": "2.1",
-      "created": "2025-01-17T18:25:05.933Z",
-      "modified": "2025-01-17T18:25:05.933Z",
+      "created": "2025-01-18T16:21:44.904Z",
+      "modified": "2025-01-18T16:21:44.904Z",
       "relationship_type": "related-to",
       "source_ref": "attack-action--8a6bbee9-1721-4b48-a5e6-f26024e10b70",
       "target_ref": "malware--e4d13d96-54e4-47f8-abec-8471869f1e79"
